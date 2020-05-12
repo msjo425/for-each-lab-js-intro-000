@@ -9,5 +9,5 @@ function printOut(item, index, array){
 
 function iterate(outsider){
   list = ["ben","nick"]
-  list.forEach
+  list.forEach(outsider)
 }
