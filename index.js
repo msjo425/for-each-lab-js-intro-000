@@ -7,4 +7,6 @@ function printOut(item, index, array){
   console.log(`${index}: ${item}`)
 }
 
-function iterate(outsider)
+function iterate(outsider){
+  
+}
