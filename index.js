@@ -7,4 +7,4 @@ function printOut(item, index, array){
   console.log(`${index}: ${item}`)
 }
 
-function iterate
+function iterate()
