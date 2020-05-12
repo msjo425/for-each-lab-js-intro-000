@@ -1,6 +1,6 @@
 
 function iterativeLog(array){
-array.forEach(print)
+array.forEach(printOut)
 }
 
 function printOut
