@@ -10,4 +10,5 @@ function printOut(item, index, array){
 function iterate(outsider){
   list = ["ben","nick"]
   list.forEach(outsider)
+  return list
 }
