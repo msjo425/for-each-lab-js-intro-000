@@ -1,13 +1,5 @@
-function iterativeLog(array){
-array.forEach(printOut)
-}
+array.forEach(iterativeLog);
 
-function printOut(item,index,array){
-  console.log(`${index}:${item}`)
-}
-
-/**function iterate(guest){
-  let list = ["tom","andy"]
-  list.forEach(guest)
-  return list
+function iterativeLog(item,index,array){
+console.log(`${index}:${item}`)
 }
