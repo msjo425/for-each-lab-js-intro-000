@@ -3,4 +3,4 @@ function iterativeLog(array){
 array.forEach(printOut)
 }
 
-function printOut
+function printOut(item, index,array)
