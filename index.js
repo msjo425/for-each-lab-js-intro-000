@@ -12,3 +12,5 @@ function iterate(outsider){
   list.forEach(outsider)
   return list
 }
+
+function doToArray(array,)
