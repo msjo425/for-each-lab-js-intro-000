@@ -13,4 +13,6 @@ function iterate(outsider){
   return list
 }
 
-function doToArray(array,callback)
+function doToArray(array,callback){
+  
+}
